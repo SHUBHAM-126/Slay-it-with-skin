@@ -265,7 +265,7 @@ const Service = () => {
 
             <Reviews />
 
-            <Newsletter />
+            
 
             <Footer />
         </>
